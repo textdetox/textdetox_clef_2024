@@ -1,0 +1,101 @@
+Unnamed: 0	toxic_sentence	neutral_sentence	lang	toxic_fluency	neutral_fluency	fluency_score	content_score	toxic_pairwise_score
+4826	Que manera de cagarla wacho 😩👎🏼	Qué manera de arruinarlo 😩👎🏼	es	1.0	1.0	1	1	1.0
+4830	bueno, también será porqué nada cabrea más a un ultranacionalista que otro nacionalismo intente violar su integridad territorial.	Bueno, también será porque nada irrita más a un ultranacionalista que otro nacionalismo intentando violar su integridad territorial.	es	1.0	1.0	1	1	1.0
+4834	La cagada de siempre retrocer la pelota pasado ya el medio, que puta crj	El jugador que siempre retrocede la pelota pasada el medio, qué frustrante.	es	0.5	1.0	1	1	1.0
+4842	Nunca en mi puta vida me va a pasar	Nunca en mi vida me va a pasar.	es	1.0	1.0	1	1	1.0
+4844	Bueno nojoda que pasa aqui pues?	Bueno, ¿qué está pasando aquí?	es	1.0	1.0	1	1	1.0
+4847	dios podes hablar bien la concha de tu madre	Dios, podrías hablar con respeto.	es	1.0	1.0	1	1	0.6666666666666666
+4856	ERA PARA QUE VAYAS A COMPRAR MANDARINAS EN JONATHAN, NO A CANTAR CON LA CAZZU.	ERA PARA QUE FUERAS A COMPRAR MANDARINAS EN JONATHAN, NO A CANTAR CON LA CAZZU.	es	1.0	1.0	1	1	0.3333333333333333
+4862	Hoy m pongo empedo o ke?💃🏼	¿Qué hago hoy, me pongo de buen humor o qué?💃🏼	es	0.5	1.0	1	0	0.8333333333333334
+4869	"Me acabo de acordar de que el otro día le dije ""No boludo!"""	"Me acabo de acordar de que el otro día le dije ""No, tonto!"""	es	1.0	1.0	1	1	0.3333333333333333
+4880	Te podes mandar todas las cagadas del mundo pero te voy a elegir a vos siempre	Pueden enviarte todos los problemas del mundo, pero siempre te elegiré a ti.	es	1.0	1.0	1	0	1.0
+4891	Tienen de CM al hioputa de Mr Wonderful	Tienen un gran respeto por Mr. Wonderful.	es	0.5	1.0	1	0	1.0
+4892	no os da como puta rabia que gente asquerosa tenga pareja y vosotros no?	¿No os da rabia que personas desagradables tengan pareja y vosotros no?	es	1.0	1.0	1	1	1.0
+4902	los que no entendéis la ironía y las coñas llevadas al extremo moláis 0 hermanus	Aquellos que no entienden la ironía y el sarcasmo extremo, no les hace gracia en absoluto.	es	0.5	1.0	1	0	1.0
+4922	La Corte y nada la misma huevonada	La Corte sigue sin cambios, sigue siendo igual de problemática.	es	1.0	1.0	1	1	1.0
+4931	soy una puta gorda y solo quiero ir a las cenas/comidas de Navidad para comer y engordar 14kg	Soy una persona que se siente insegura con su peso y solo quiero asistir a las cenas/comidas de Navidad para disfrutar de la comida y no me preocupo el engordar temporalmente.	es	1.0	1.0	1	1	0.6666666666666666
+4933	los mas valientes, los mejores, los mas preparados vienen a pagarnos las pensiones daga en mano	los más valientes, los mejores, los más preparados están aquí para asegurar el pago de las pensiones.	es	0.5	1.0	1	1	0.8333333333333334
+4936	Hoy día la ley de memoria histórica considera a esta víctima del Frente Popular un golpista.	La ley de memoria histórica actual considera a esta víctima del Frente Popular como parte de un intento de golpe de estado.	es	1.0	1.0	1	1	0.6666666666666666
+4940	A nadie puta le importa quien carajos muere por un dragon.	A nadie le importa quién muere por un accidente.	es	1.0	1.0	1	0	1.0
+4946	man soy r autoexigente q hincha pelotas	Soy una persona muy autoexigente, a veces hasta excesivo.	es	0.5	1.0	1	1	1.0
+4949	Uribe tiene huevas de plomo y nadie le da la talla.	Uribe es muy valiente y nadie le iguala.	es	1.0	1.0	1	1	1.0
+4954	Así luego entran en patera, dan otro nombre, y tienen otra paguita	Entonces entran de manera ilegal, toman otro nombre y obtienen beneficios financieros.	es	1.0	1.0	1	1	0.3333333333333333
+4958	Joder que partidazo de los Wolves en Anfield.	Qué decepción la partida de los Wolves en Anfield.	es	1.0	1.0	1	0	0.5
+4966	Oye que mierdas le pasa a Alba en las galas :(((?!?!?!	Oye, ¿qué le sucede a Alba en las galas :((?	es	1.0	1.0	1	1	1.0
+4976	Jajajajaja que gorda lechera hasta cuando con esos videos	Jajajajaja qué divertido, incluso con esos videos.	es	1.0	1.0	1	0	1.0
+4983	Esto hace falta en Paraguay, no la cantaleta amariconada de DDHH de muchos políticos.	Esto es necesario en Paraguay, no la falta de acción de muchos políticos.	es	1.0	1.0	1	1	1.0
+4986	Xq no me contestabas maldita	¿Por qué no me respondías?	es	0.5	1.0	1	1	1.0
+4988	Te acordas que existo pendejo de mierda 😡	¿Te das cuenta de que existo? 😡	es	1.0	1.0	1	1	1.0
+5003	Por qué les tienen tanta bronca a los q fueron mantenidos y no los mandaron a laburar?	¿Por qué tienen tanta animosidad hacia aquellos que fueron mantenidos y no tuvieron que trabajar?	es	1.0	1.0	1	0	0.3333333333333333
+5007	Nico a los 3 años se metió una pila y un PAN en la nariz, desde chiquito es pelotudo 🤣	Nico, a los 3 años, se metió una pila y un pan en la nariz, siempre ha sido un niño travieso 🤣.	es	1.0	1.0	1	0	0.6666666666666666
+5014	Huevones nefastos utilizados por la extrema izquierda anarquista	Técnicas cuestionables utilizadas por la extrema izquierda anarquista.	es	1.0	1.0	1	1	1.0
+5015	Una noche me duró la serie, joder coño	La serie me absorbió en una noche.	es	1.0	1.0	1	1	1.0
+5018	EN SERIO ESTOS PEDAZOS DE MIERDAS PUEDEN SER LLAMADOS POLICÍAS CIVILES?	¿EN SERIO PUEDEN SER LLAMADOS POLICÍAS CIVILES A ESTAS PERSONAS?	es	1.0	1.0	1	1	1.0
+5022	Jajajajaj la Küyén cagando en el depa DESPUÉS DE QUE LA SAQUÉ A PASEAR PARÁ QUE CAGARA AFUERA!!!	Jajajajaj que situación, la Küyen teniendo problemas en el depa después de haber salido a pasear para solucionarlos afuera.	es	1.0	1.0	1	1	1.0
+5031	Tengo un problema serio si ya desde esta hora estoy hasta los cojones de la gente	Tengo un problema serio si ya desde esta hora estoy muy frustrado con la gente.	es	1.0	1.0	1	1	1.0
+5033	Lo puto guapa que sale todo el rato??????	Qué hermosa que siempre se muestra afuera?	es	1.0	1.0	1	0	1.0
+5036	me tienen las pelotas re llenas todos	estoy muy frustrado con todos.	es	1.0	1.0	1	1	0.8333333333333334
+5046	Joder que bueno, no voy a picar yo sólo 😉	Qué bien, no voy a ser el único en no participar 😉.	es	1.0	1.0	1	1	1.0
+5047	No sirven para un culo	No sirven para nada.	es	1.0	1.0	1	1	1.0
+5049	El espíritu de Plasencia siempre será una epopeya de liberación de tensión...Que putos nervios de tanda, pollo.	El espíritu de Plasencia siempre será una epopeya de liberación de tensión...qué tensión, amigo.	es	1.0	1.0	1	1	1.0
+5053	Cuesta un huevo estar bien con alguien pero solo segundos para que todo se vuelva un caos.	Es difícil mantener una buena relación con alguien, y todo puede volverse un caos en segundos.	es	1.0	1.0	1	1	0.6666666666666666
+5064	Las cortes corruptas y ahora también con abusos sexuales, de razón la justicia de este país esta vuelta MIERDA.	Los escándalos de corrupción y abusos sexuales han socavado la confianza en la justicia de este país.	es	1.0	1.0	1	1	1.0
+5065	pero callate — Pero que me dejes 👊	pero cállate — Déjame en paz 👊	es	1.0	1.0	1	1	0.8333333333333334
+5069	¡Vallekanos yonkis y gitanos! Orgullosos de nuestro barrio, no lo podréis entender 💪	¡Vallekanos, yonkis y gitanos! Estamos orgullosos de nuestro barrio, puede que no lo comprendáis 💪.	es	1.0	1.0	1	1	0.6666666666666666
+5072	No sea imbécil la idea es salir con precaución  para reactivar la economía que lleva meses por culpa del COVID-19.	No sea imprudente, la idea es salir con precaución para reactivar la economía, que ha estado estancada por meses debido al COVID-19.	es	1.0	1.0	1	1	1.0
+5075	Ayer escrachamos al pelotudo del Mono Ramos y hoy al infeliz lo echaron.	Ayer criticamos duramente a Mono Ramos y hoy a la persona desafortunada la despidieron.	es	0.5	1.0	1	1	1.0
+5078	Entrar al metro es como bajar al infierno	Entrar al metro puede ser una experiencia desagradable.	es	1.0	1.0	1	1	0.5
+5106	No hay nadie de la oposición con los  cojones suficientes para hacer la denuncia..	No hay nadie en la oposición con el coraje suficiente para presentar la denuncia.	es	1.0	1.0	1	1	1.0
+5111	Grande comobsiempre y dejando como un culo a la izquierda.	Grande como siempre y dejando a la izquierda atrás.	es	0.5	1.0	1	1	0.8333333333333334
+5113	Uno para pasar los cólicoAY CHAO DE AQUÍ BOBA HIJUEPUTA.	Una forma de pasar los cólicos, adiós de aquí, persona grosera.	es	0.5	1.0	1	1	1.0
+5117	Me falta follar joder para hacer pleno :(	Me falta algo importante para completar mi tarea :(	es	1.0	1.0	1	1	1.0
+5119	Que ninguna me mande nudes es otro pedo.	Que nadie me envíe fotos inapropiadas es un problema adicional.	es	1.0	1.0	1	1	1.0
+5123	Por un 2019 q me chupe todo un huevo, y que todo me duela menos🙏🏻	Por un 2019 que desee un cambio y que mis problemas sean menos dolorosos.	es	0.5	1.0	1	1	1.0
+5132	La verdad le duele a ese mequetrefe	La verdad le duele a esa persona	es	1.0	1.0	1	1	1.0
+5148	Joder, todo muerto es bueno.	Demasiada comida, me siento muy lleno.	es	1.0	1.0	1	0	1.0
+5163	Le pusiste sueldo de 50k a pateadores cualquiera con primas anuales hasta por si se tiraba un pedo.	Le asignaron un salario de 50k a cualquiera con bonificaciones anuales, incluso si solo hiciera un esfuerzo mínimo.	es	1.0	1.0	1	1	1.0
+5172	Salí de ahí Martínez, es pasar vergüenza al pedo	Me marché de allí Martínez, es una fuente de vergüenza.	es	1.0	1.0	1	1	0.6666666666666666
+5173	Luego coñazo absoluto lo q movera en torno a ella en redes sociales por ej.	Luego un gran alboroto es lo que causará en torno a ella en las redes sociales, por ejemplo.	es	0.5	1.0	1	1	1.0
+5177	Que caro nos salió la maldita revolución chavomadurista!	Fue muy costoso el proceso revolucionario.	es	1.0	1.0	1	1	1.0
+5179	Se ganan todo eso y muchos no hacen un culo allá.	Aunque ganan mucho, muchos no se esfuerzan lo suficiente.	es	1.0	1.0	1	1	1.0
+5180	Que se puede esperar de un burro más que una patada?	¿Qué se puede esperar de alguien imprudente más que un mal comportamiento?	es	1.0	1.0	1	1	0.6666666666666666
+5185	Pero hay veces es las que no podes garchar pero eso si podes crack	Pero hay veces en las que no puedes evitarlo, pero a veces puedes resistir	es	1.0	1.0	1	0	0.8333333333333334
+5199	Puede no ES un engaño, no podemos creer en este dictador comunista. CALLE hasta que se vayan	Podría no ser un engaño, no podemos confiar en este líder autoritario. A la calle hasta que se vayan	es	1.0	1.0	1	1	0.6666666666666666
+5200	Uff qué tan poco me banco a los hombres la concha de mi madre, con suerte me caerán bien 5	Uff qué tan poco confío en los hombres, con suerte me caerán bien 5	es	1.0	1.0	1	1	1.0
+5206	Que cagada es no sentirse cómodo en ningún lugar 😂	Qué frustración no sentirse cómodo en ningún lugar 😂	es	1.0	1.0	1	1	1.0
+5208	Cállate bobo anda a teñirte bien el pelo	Cállate, ve a teñirte el pelo	es	1.0	1.0	1	1	1.0
+5211	"El instrumento de aprendizaje más ""cabron"" que hay es el fracaso."	El instrumento de aprendizaje más efectivo que hay es el fracaso.	es	1.0	1.0	1	1	1.0
+5214	todo q m va a salir mal hoy laputamadre	Todo me sale mal hoy, maldición	es	0.5	1.0	1	1	1.0
+5219	hace dos semanas q me voy a dormir todos los días mariconeando, no me canso	Hace dos semanas que me voy a dormir todos los días frustrado, no me canso	es	1.0	1.0	1	1	1.0
+5220	¡Pues ya está todo claro! La culpa es nuestra por haberles fallado ONE MORE TIME !!	¡Entonces ya está todo aclarado! La responsabilidad es nuestra por no haberlos apoyado la vez pasada.	es	1.0	1.0	1	1	0.5
+5228	A los que les chupa la poronga  y defiende a garnero, que se vayan con el de paso GRACIAS!	A los que apoyan a Garnero, que se unan a él si están dispuestos, ¡gracias!	es	1.0	1.0	1	1	1.0
+5235	HERNANO YO QUIERO DORMIR TAMBIEN, LA PUTA MADRE 😒	HERNANO, TAMBIÉN QUIERO DORMIR, ¡qué frustración! 😒	es	1.0	0.5	0	1	1.0
+5249	Ella sabe cómo dejar que este emputada jajajajajajaj	Ella sabe cómo manejar esta situación difícil jajajajajajaj	es	1.0	1.0	1	1	0.6666666666666666
+5250	Necesitaba desahogarme con esa wea, te juro que me cae muy mal ese viejo culiao 😑	Necesitaba desahogarme con esa persona, te juro que me cae muy mal ese viejo 😑	es	1.0	1.0	1	1	1.0
+5255	Porque de eso nada que responde y se hace el pendejo.	Porque no dice nada en respuesta y actúa como si nada hubiera pasado.	es	1.0	1.0	1	1	1.0
+5257	La clase estuvo buena pero súper mocha a mi parecer, si consideramos que es folclore y tiene un background brutal.	La clase estuvo bien, pero considero que fue muy intensa, especialmente teniendo en cuenta su contenido cultural y su trasfondo duro.	es	1.0	1.0	1	1	0.8333333333333334
+5260	Es decir las cortes son la mierda de la institucionalidad en el país.	Es decir, las cortes son un problema para la institucionalidad en el país.	es	1.0	1.0	1	1	1.0
+5261	Que triste, de la persona que menos lo esperaba, me hizo mierda.	Qué triste, de la persona que menos lo esperaba, me decepcionó.	es	1.0	1.0	1	1	1.0
+5275	Entonces anda comete un pancho cobra o un lomito de terraterra y deja de hacerte el finoli...	Entonces ve y come algo, deja de actuar de manera pretenciosa...	es	1.0	1.0	1	1	1.0
+5279	Si, seré esa amiga y la tía buena pal webeo	Sí, seré esa amiga y la tía que es buena para ayudar en línea.	es	0.5	1.0	1	1	0.6666666666666666
+5285	Martin es mas wn que las palomas...inocente el cabro #Los80	Martin es más tranquilo que las palomas... es un alma pura #Los80	es	0.5	1.0	1	1	1.0
+5291	Acá hay mucho boludo pidiendo que devuelvan plata !	Hay mucha gente pidiendo la devolución del dinero aquí	es	1.0	1.0	1	1	1.0
+5300	"Los Domingos creo que hay un chip de ""Modo bajón activado""  automático, que puta."	"Los domingos creo que hay un chip de ""Modo bajón activado"" automático, que frustrante."	es	1.0	1.0	1	1	1.0
+5302	Y el papel secundario de Gordon Pinsent es una puta maravilla!!!!	Y el papel secundario de Gordon Pinsent es una maravilla.	es	1.0	1.0	1	1	1.0
+5306	me encanta cuando la gente no entiende una mierda y habla pelotudeces porque sí	Me encanta cuando la gente no entiende nada y habla sin sentido solo por hablar.	es	1.0	1.0	1	1	1.0
+5307	Sigan Saliendo parranda de Hijueputas...Sigan creyendo que esto es un juego y que son inmunes al Covid-19.	Que sigan saliendo, un grupo de personas imprudentes... Que sigan pensando que esto es un juego y que están inmunes al Covid-19.	es	1.0	1.0	1	1	1.0
+5308	La Cuarentena no sirve para un culo.	La cuarentena no es útil para nadie.	es	1.0	1.0	1	1	1.0
+5318	Quiero estar de novio pero ala vez salir de joda que mierda hago?😂💔	Quiero estar en una relación, pero también quiero salir y divertirme, ¿qué debo hacer?😂💔	es	1.0	1.0	1	1	0.6666666666666666
+5321	Las Jordan 13 de Villanueva la cagaron!	Las Jordan 13 de Villanueva no fueron bien recibidas.	es	1.0	1.0	1	1	1.0
+5335	Le sacaron los trapitos al sol.	Le expusieron los secretos.	es	1.0	1.0	1	1	0.6666666666666666
+5336	Netflix es peor que las drogas.	Netflix puede ser tan adictivo como las drogas.	es	1.0	1.0	1	1	0.5
+5357	Qué humor de mierda tengo hoy dios	Tengo un mal humor hoy, cielo	es	1.0	1.0	1	1	1.0
+5364	Raro este pedazo de Hpta incitando cada semana a una marcha.	Extraño que esta persona alentando cada semana a una marcha.	es	1.0	1.0	1	1	1.0
+5365	Un beso que te gustó pero la psicópata de tu pareja te lleva echando en cara desde entonces.	Un beso que te gustó, pero tu pareja te lo ha estado recordando desde entonces.	es	1.0	1.0	1	1	1.0
+5374	Jajajaja pensó que era de cuates.	Jajajaja pensó que era de ellos.	es	1.0	1.0	1	0	0.5
+5378	Les tiembla el culo a ustedes que saben porque les corre.	Están muy asustados porque saben lo que les depara.	es	1.0	1.0	1	1	1.0
+5388	EMPIECEN A TRANSMITIR USTEDES EN VIVO NOJODAAAA DEJEN EL MIEDO TAMBIEN	Comienzan a transmitir en vivo, ¡no interfieran! Dejen el miedo también	es	1.0	1.0	1	1	1.0
+5389	unnnas ganas d ponerme en pedo un rato	Tengo una fuerte ganas de relajarme por un tiempo	es	0.5	1.0	1	1	1.0
+5391	Ya q no hay colé me podes venir a ver puto de mierda 😡	Ya que no hay colé, puedes verme 😡	es	1.0	1.0	1	1	1.0
+5394	Piñera tiene que estar llorando por no poder ir a chuparle el pico a Trump	Piñera debe estar muy frustrado por no poder seguir su agenda con Trump	es	1.0	1.0	1	1	1.0
+5399	Son un chorro de Machos contra Mujer, pero voy por Josean de Comerio.	Son un grupo de hombres en contra de la igualdad de género, pero voy a apoyar a Josean de Comerio.	es	1.0	1.0	1	1	0.8333333333333334
