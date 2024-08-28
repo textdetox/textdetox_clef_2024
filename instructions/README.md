@@ -1,4 +1,4 @@
-# Annotation instruction
+# Annotation instructions
 
 We provide the instructions and tasks desciption used for the data annotation:
 
