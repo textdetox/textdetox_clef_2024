@@ -20,5 +20,5 @@ To calculate the final metric for each language we
 - average the scores of fluency_score, content_score, toxic_pairwise_score
 - multiply averaged scores
 
-Please take into account that the full description of the evaluation annotation setup will be available in the paper describing the results of the shared task.
+The full texts of instructions per each task and per each language can be found in our repository in this [subfolder](https://github.com/textdetox/textdetox_clef_2024/tree/main/instructions/human_evaluation). Please take into account that the full description of the evaluation annotation setup will be available in the paper describing the results of the shared task.
 
