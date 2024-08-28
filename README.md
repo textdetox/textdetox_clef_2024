@@ -1,7 +1,7 @@
 # TextDetox CLEF-2024
 This repository correspondes to the data annotation and human evaluation intructions and results for [TextDetox-2024](https://pan.webis.de/clef24/pan24-web/text-detoxification.html) shared task. The shared task covered 9 languages: English, Spanish, German, Chinese, Arabic, Hindi, Ukrainian, Russian, and Amharic.
 
-``instructions``: ParaDetox datasets collection instruction per language. 
+``instructions``: ParaDetox datasets collection and crowdsourcing models answers evaluation instruction per language. 
 
 ``human_evaluation_results``: test set crowdsourcing evaluation of the shared task participants.
 
