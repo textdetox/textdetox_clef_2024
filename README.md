@@ -73,4 +73,4 @@ If you would like to acknowledge our work, please, cite the following manuscript
 ```
 
 ## Corresponding contacts
-Daryna Dementieva (dardem96@gmail.com), Alexander Panchenko (a.panchenko@skol.tech)
+Daryna Dementieva (dardem96@gmail.com), Nikolay Babakov (bbkhse@gmail.com), and Alexander Panchenko (a.panchenko@skol.tech)
